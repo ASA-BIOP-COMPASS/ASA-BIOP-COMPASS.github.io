@@ -168,7 +168,7 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #fafafa;}
 
 
 
