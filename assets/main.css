@@ -130,8 +130,8 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
 /* hover */
 /* Dropdown Button */
 .dropbtn {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #fafafa;
+  color: black;
   padding: 1.67em;
   font-size: 1.67em;
   border: none;
